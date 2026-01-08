@@ -85,6 +85,14 @@ Detailed supporting evidence, command output, and threat intelligence screenshot
 
 </details>
 
+---
+
+## Evidence Handling Note
+
+The original phishing email (.eml) was analyzed in a controlled lab environment.  
+To prevent accidental execution of malicious content and protect sensitive data, the raw email file is not included in this repository.  
+All relevant artifacts, indicators, and findings are documented in this report and the linked investigation issue.
+
 
 ### VirusTotal Analysis
 
