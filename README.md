@@ -65,6 +65,26 @@ The objective is to analyze a suspicious email, identify malicious indicators, a
 hxxps[://]0[.]232[.]205[.]92[.]host[.]secureserver[.]net/lclbluewin08812/
 
 ```
+---
+
+## Supporting Evidence & Investigation Details
+
+Detailed supporting evidence, command output, and threat intelligence screenshots related to this phishing investigation are documented in the following GitHub issue:
+
+<details>
+  <summary><strong>Phishing URL Investigation – Evidence & Findings</strong></summary>
+
+  This issue includes:
+  - Extracted email header artifacts
+  - Defanged and refanged malicious URLs
+  - VirusTotal analysis results
+  - Vendor detection breakdown
+  - Screenshot evidence supporting phishing classification
+
+  🔗 https://github.com/Thien692/phishing-email-analysis/issues/1
+
+</details>
+
 
 ### VirusTotal Analysis
 
